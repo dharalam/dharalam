@@ -1,4 +1,4 @@
-## Hi there 👋
+[![roadmap.sh](https://roadmap.sh/card/tall/668aaa5e501413692bc64c5f?variant=dark&roadmaps=python%2Cai-data-scientist%2Cmlops%2Cpostgresql-dba)](https://roadmap.sh)
 
 <!--
 **dharalam/dharalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
